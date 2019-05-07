@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="datchoi.github.io" resolutions="1x" timestamp="1557247268875">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="datchoi.github.io" resolutions="1x" timestamp="1557248524133">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4034172129" ref="index"/>
+    <file name="index.css" crc="466158000" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -22,6 +22,7 @@
     <file name="pasted-svg-476254x258.svg" crc="199205305" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 476254x258_poster_.png" crc="4215112816" ref="index"/>
     <file name="u1119-4.png" crc="4285420477" ref="index"/>
@@ -36,7 +37,8 @@
     <file name="u679-4.png" crc="3922668957" ref="index"/>
     <file name="u1148-6.png" crc="376470789" ref="index"/>
     <file name="u685-6.png" crc="3866074565" ref="index"/>
-    <file name="u701-4.png" crc="3832100257" ref="index"/>
+    <file name="u1404-6.png" crc="376470789" ref="index"/>
+    <file name="u701-6.png" crc="328818455" ref="index"/>
     <file name="u731-4.png" crc="4091225263" ref="index"/>
     <file name="u767-6.png" crc="360182017" ref="index"/>
     <file name="pasted-svg-151426x188.svg" crc="465908082" seo="true" ref="index">
@@ -63,6 +65,7 @@
     <file name="pasted svg 484x484_poster_.png" crc="4092955663" ref="index"/>
     <file name="pasted-svg-769x786.svg" crc="4144889601" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 769x786_poster_.png" crc="4092576470" ref="index"/>
     <file name="u1277-4.png" crc="4278712320" ref="index"/>
@@ -82,5 +85,5 @@
     <file name="u1265-4.png" crc="4079977654" ref="index"/>
     <file name="u1271-4.png" crc="258543447" ref="index"/>
   </folder>
-  <file name="index.html" crc="4122017435" seo="true" mt="1557246753895" redirect="true"/>
+  <file name="index.html" crc="3936335976" seo="true" mt="1557248444629" redirect="true"/>
 </manifest>
