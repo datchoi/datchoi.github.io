@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://datchoi.github.io/index.html</loc>
-    <lastmod>2019-05-07</lastmod>
+    <lastmod>2019-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,6 +22,9 @@
     </image:image>
     <image:image>
       <image:loc>http://datchoi.github.io/images/pasted-svg-484x484.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://datchoi.github.io/images/pasted-svg-769x786.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://datchoi.github.io/images/pasted-svg-139x212.svg</image:loc>
