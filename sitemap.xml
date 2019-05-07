@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://datchoi.github.io/index.html</loc>
+    <lastmod>2019-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://datchoi.github.io/images/pasted-svg-38164x55.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://datchoi.github.io/images/pasted-svg-476254x258.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://datchoi.github.io/images/pasted-svg-476254x2582.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://datchoi.github.io/images/pasted-svg-151426x188.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://datchoi.github.io/images/pasted-svg-151426x1882.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://datchoi.github.io/images/pasted-svg-484x484.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://datchoi.github.io/images/pasted-svg-769x786.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://datchoi.github.io/images/pasted-svg-139x212.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://datchoi.github.io/images/pasted-svg-142x183.svg</image:loc>
+    </image:image>
+  </url>
+</urlset>
