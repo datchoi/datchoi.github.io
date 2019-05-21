@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="datchoi.github.io" resolutions="1x" timestamp="1558451620584">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="datchoi.github.io" resolutions="1x" timestamp="1558452378061">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="478614813" ref="index"/>
     <file name="category1.css" crc="4023390746" ref="category1"/>
-    <file name="category3.css" crc="3993364846" ref="category3"/>
+    <file name="category3.css" crc="4247498489" ref="category3"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="category3:index:category1"/>
@@ -196,7 +196,7 @@
     </file>
     <file name="pasted svg 126157x69_poster_.png" crc="4038642985" ref="category1"/>
   </folder>
-  <file name="category3.html" crc="3987597638" seo="true" mt="1558433791329" redirect="true"/>
+  <file name="category3.html" crc="4017016034" seo="true" mt="1558452364482" redirect="true"/>
   <file name="index.html" crc="261487224" seo="true" mt="1558433875257" redirect="true"/>
   <file name="category1.html" crc="260435803" seo="true" mt="1558451523636" redirect="true"/>
 </manifest>
