@@ -1,17 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="datchoi.github.io" resolutions="1x" timestamp="1557884087669">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="datchoi.github.io" resolutions="1x" timestamp="1558451620584">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="478614813" ref="index"/>
-    <file name="category3.css" crc="4052437383" ref="category3"/>
+    <file name="category1.css" crc="4023390746" ref="category1"/>
+    <file name="category3.css" crc="3993364846" ref="category3"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="category3:index"/>
-    <file name="museutils.js" crc="340535759" ref="category3:index"/>
-    <file name="whatinput.js" crc="86476730" ref="category3:index"/>
-    <file name="museconfig.js" crc="310584261" ref="category3:index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="category3:index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="category3"/>
-    <file name="require.js" crc="7928878" ref="category3:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="category3:index:category1"/>
+    <file name="museutils.js" crc="340535759" ref="category3:index:category1"/>
+    <file name="whatinput.js" crc="86476730" ref="category3:index:category1"/>
+    <file name="museconfig.js" crc="310584261" ref="category3:index:category1"/>
+    <file name="jquery.watch.js" crc="51536988" ref="category3:index:category1"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="category3:category1"/>
+    <file name="require.js" crc="7928878" ref="category3:index:category1"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
@@ -172,7 +173,30 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted svg 1154212x467_poster_.png" crc="4043846639" ref="index"/>
+    <file name="pasted-svg-832x1232.svg" crc="3770021348" seo="true" ref="category1">
+      <caption webpage="category1" alt=""/>
+    </file>
+    <file name="pasted svg 832x1232_poster_.png" crc="3778773326" ref="category1"/>
+    <file name="pasted-svg-677x431.svg" crc="329376324" seo="true" ref="category1">
+      <caption webpage="category1" alt=""/>
+      <caption webpage="category1" alt=""/>
+    </file>
+    <file name="pasted svg 677x431_poster_.png" crc="3875799361" ref="category1"/>
+    <file name="pasted-svg-6265x805.svg" crc="4211436202" seo="true" ref="category1">
+      <caption webpage="category1" alt=""/>
+      <caption webpage="category1" alt=""/>
+    </file>
+    <file name="pasted svg 6265x805_poster_.png" crc="4053336797" ref="category1"/>
+    <file name="pasted-svg-290164x71.svg" crc="213647114" seo="true" ref="category1">
+      <caption webpage="category1" alt=""/>
+    </file>
+    <file name="pasted svg 290164x71_poster_.png" crc="3903272907" ref="category1"/>
+    <file name="pasted-svg-126157x69.svg" crc="401937898" seo="true" ref="category1">
+      <caption webpage="category1" alt=""/>
+    </file>
+    <file name="pasted svg 126157x69_poster_.png" crc="4038642985" ref="category1"/>
   </folder>
-  <file name="category3.html" crc="3905235465" seo="true" mt="1557883988322" redirect="true"/>
-  <file name="index.html" crc="4097019081" seo="true" mt="1557863207378" redirect="true"/>
+  <file name="category3.html" crc="3987597638" seo="true" mt="1558433791329" redirect="true"/>
+  <file name="index.html" crc="261487224" seo="true" mt="1558433875257" redirect="true"/>
+  <file name="category1.html" crc="260435803" seo="true" mt="1558451523636" redirect="true"/>
 </manifest>
