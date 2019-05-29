@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="datchoi.github.io" resolutions="1x" timestamp="1559112860087">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="datchoi.github.io" resolutions="1x" timestamp="1559113759102">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="category1.css" crc="4252273964" ref="category1"/>
+    <file name="category1.css" crc="241411271" ref="category1"/>
     <file name="category3.css" crc="227385757" ref="category3"/>
     <file name="index.css" crc="478614813" ref="index"/>
   </folder>
@@ -202,14 +202,14 @@
       <caption webpage="category1" alt=""/>
     </file>
     <file name="pasted svg 1674031x693_poster_.png" crc="282442641" ref="category1"/>
-    <file name="pasted-svg-654x184.svg" crc="4158147847" seo="true" ref="category1">
+    <file name="pasted-svg-654x184.svg" crc="4017805629" seo="true" ref="category1">
       <caption webpage="category1" alt=""/>
     </file>
-    <file name="pasted svg 654x184_poster_.png" crc="33983084" ref="category1"/>
-    <file name="pasted-svg-652631x184.svg" crc="4241958224" seo="true" ref="category1">
+    <file name="pasted svg 654x184_poster_.png" crc="234450351" ref="category1"/>
+    <file name="pasted-svg-652631x184.svg" crc="311931639" seo="true" ref="category1">
       <caption webpage="category1" alt=""/>
     </file>
-    <file name="pasted svg 652631x184_poster_.png" crc="289208150" ref="category1"/>
+    <file name="pasted svg 652631x184_poster_.png" crc="3966766171" ref="category1"/>
     <file name="pasted-svg-99x1802.svg" crc="238342786" seo="true" ref="category1">
       <caption webpage="category1" alt=""/>
     </file>
@@ -222,14 +222,14 @@
       <caption webpage="category1" alt=""/>
     </file>
     <file name="pasted svg 802734x118_poster_.png" crc="3932062472" ref="category1"/>
-    <file name="pasted-svg-31312x121.svg" crc="410643108" seo="true" ref="category1">
-      <caption webpage="category1" alt=""/>
-    </file>
-    <file name="pasted svg 31312x121_poster_.png" crc="3853056934" ref="category1"/>
     <file name="pasted-svg-675x5561.svg" crc="114861926" seo="true" ref="category1">
       <caption webpage="category1" alt=""/>
     </file>
     <file name="pasted svg 675x5561_poster_.png" crc="3808837666" ref="category1"/>
+    <file name="pasted-svg-313232x121.svg" crc="294730723" seo="true" ref="category1">
+      <caption webpage="category1" alt=""/>
+    </file>
+    <file name="pasted svg 313232x121_poster_.png" crc="446341561" ref="category1"/>
     <file name="pasted-svg-117x216.svg" crc="3798701432" seo="true" ref="category1">
       <caption webpage="category1" alt=""/>
     </file>
@@ -391,5 +391,5 @@
   </folder>
   <file name="category3.html" crc="445662113" seo="true" mt="1558452502140" redirect="true"/>
   <file name="index.html" crc="261487224" seo="true" mt="1558433875257" redirect="true"/>
-  <file name="category1.html" crc="4248113837" seo="true" mt="1559112831061" redirect="true"/>
+  <file name="category1.html" crc="525531958" seo="true" mt="1559113709606" redirect="true"/>
 </manifest>

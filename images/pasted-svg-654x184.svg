@@ -3,16 +3,6 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
 	 x="0px" y="0px" width="654px" height="184.553px" viewBox="0 0 654 184.553" style="enable-background:new 0 0 654 184.553;"
 	 xml:space="preserve">
-<style type="text/css">
-	.st0{fill:url(#SVGID_1_);}
-	.st1{fill:url(#SVGID_2_);}
-	.st2{fill:url(#SVGID_3_);}
-	.st3{fill:url(#SVGID_4_);}
-	.st4{fill:url(#SVGID_5_);}
-	.st5{fill:url(#SVGID_6_);}
-	.st6{fill:url(#SVGID_7_);}
-	.st7{fill:url(#SVGID_8_);}
-</style>
 <defs>
 </defs>
 <g>
@@ -709,52 +699,8 @@
 			C467.034,92.288,465.887,91.168,465.887,89.768z"/>
 	</g>
 </g>
-<radialGradient id="SVGID_1_" cx="182.9371" cy="16.1004" r="38.8175" gradientUnits="userSpaceOnUse">
-	<stop  offset="0.1303" style="stop-color:#000000"/>
-	<stop  offset="0.1932" style="stop-color:#090909"/>
-	<stop  offset="0.2975" style="stop-color:#232323"/>
-	<stop  offset="0.4304" style="stop-color:#4C4C4C"/>
-	<stop  offset="0.5867" style="stop-color:#858585"/>
-	<stop  offset="0.7607" style="stop-color:#CDCDCD"/>
-	<stop  offset="0.7989" style="stop-color:#DEDEDE"/>
-	<stop  offset="0.9039" style="stop-color:#EDEDED"/>
-	<stop  offset="1" style="stop-color:#FFFFFF"/>
-</radialGradient>
-<rect x="166.998" y="1.217" class="st0" width="31.879" height="24.378"/>
-<radialGradient id="SVGID_2_" cx="230.9371" cy="52.1004" r="38.8175" gradientUnits="userSpaceOnUse">
-	<stop  offset="0.1303" style="stop-color:#000000"/>
-	<stop  offset="0.1932" style="stop-color:#090909"/>
-	<stop  offset="0.2975" style="stop-color:#232323"/>
-	<stop  offset="0.4304" style="stop-color:#4C4C4C"/>
-	<stop  offset="0.5867" style="stop-color:#858585"/>
-	<stop  offset="0.7607" style="stop-color:#CDCDCD"/>
-	<stop  offset="0.7989" style="stop-color:#DEDEDE"/>
-	<stop  offset="0.9039" style="stop-color:#EDEDED"/>
-	<stop  offset="1" style="stop-color:#FFFFFF"/>
-</radialGradient>
-<rect x="214.998" y="37.217" class="st1" width="31.879" height="24.378"/>
-<radialGradient id="SVGID_3_" cx="175.5696" cy="16.1004" r="38.8175" gradientTransform="matrix(2.1538 0 0 1 -343.8079 0)" gradientUnits="userSpaceOnUse">
-	<stop  offset="0.1303" style="stop-color:#000000"/>
-	<stop  offset="0.1932" style="stop-color:#090909"/>
-	<stop  offset="0.2975" style="stop-color:#232323"/>
-	<stop  offset="0.4304" style="stop-color:#4C4C4C"/>
-	<stop  offset="0.5867" style="stop-color:#858585"/>
-	<stop  offset="0.7607" style="stop-color:#CDCDCD"/>
-	<stop  offset="0.7989" style="stop-color:#DEDEDE"/>
-	<stop  offset="0.9039" style="stop-color:#EDEDED"/>
-	<stop  offset="1" style="stop-color:#FFFFFF"/>
-</radialGradient>
-<rect y="1.217" class="st2" width="68.659" height="24.378"/>
-<radialGradient id="SVGID_4_" cx="408.9371" cy="51.1004" r="38.8175" gradientUnits="userSpaceOnUse">
-	<stop  offset="0.1303" style="stop-color:#000000"/>
-	<stop  offset="0.1932" style="stop-color:#090909"/>
-	<stop  offset="0.2975" style="stop-color:#232323"/>
-	<stop  offset="0.4304" style="stop-color:#4C4C4C"/>
-	<stop  offset="0.5867" style="stop-color:#858585"/>
-	<stop  offset="0.7607" style="stop-color:#CDCDCD"/>
-	<stop  offset="0.7989" style="stop-color:#DEDEDE"/>
-	<stop  offset="0.9039" style="stop-color:#EDEDED"/>
-	<stop  offset="1" style="stop-color:#FFFFFF"/>
-</radialGradient>
-<rect x="392.998" y="36.217" class="st3" width="31.879" height="24.378"/>
+<rect x="166.998" y="1.217" width="31.879" height="24.378"/>
+<rect x="214.998" y="37.217" width="31.879" height="24.378"/>
+<rect y="1.217" width="68.659" height="24.378"/>
+<rect x="392.998" y="36.217" width="31.879" height="24.378"/>
 </svg>
