@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="datchoi.github.io" resolutions="1x" timestamp="1559113759102">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="datchoi.github.io" resolutions="1x" timestamp="1559114021010">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="category1.css" crc="241411271" ref="category1"/>
+    <file name="category1.css" crc="163829897" ref="category1"/>
     <file name="category3.css" crc="227385757" ref="category3"/>
     <file name="index.css" crc="478614813" ref="index"/>
   </folder>
@@ -391,5 +391,5 @@
   </folder>
   <file name="category3.html" crc="445662113" seo="true" mt="1558452502140" redirect="true"/>
   <file name="index.html" crc="261487224" seo="true" mt="1558433875257" redirect="true"/>
-  <file name="category1.html" crc="525531958" seo="true" mt="1559113709606" redirect="true"/>
+  <file name="category1.html" crc="206355416" seo="true" mt="1559113979754" redirect="true"/>
 </manifest>
